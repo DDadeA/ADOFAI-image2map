@@ -2,6 +2,7 @@
 The map generator script for the game 'A Dance of Fire and Ice'.
 
 ![image](https://github.com/DDadeA/ADOFAI-image2map/assets/44233195/b1c41201-8d67-4bbc-9e72-4df3802e97b8)
+![image](https://github.com/DDadeA/ADOFAI-image2map/assets/44233195/7cb43d4f-7958-4816-8f8b-31432bebf619)
 
 
 ## Requirement
